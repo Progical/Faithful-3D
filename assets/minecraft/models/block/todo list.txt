@@ -1,0 +1,15 @@
+rail curved
+golden rail
+detector rail
+activator rail
+
+doors :
+oak top bottom
+birch top bottom
+spruce top bottom
+acacia top
+dark_oak top bottom
+iron top bottom
+
+trapdoors:
+all
